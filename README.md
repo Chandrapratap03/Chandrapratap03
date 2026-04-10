@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Chandra Pratap, an aspiring Data Analyst currently with hands-on experience in data analysis, visualization, and business intelligence. <br>skills SQL and Python with libraries like-<br> Pandas, NumPy, Matplotlib, and Seaborn for data manipulation and analysis. <br> tools - Power BI, Tableau, Advanced Excel, and Power Query  . <br>
+I am Chandra Pratap, an aspiring Data Analyst  with hands-on experience in data analysis, visualization, and business intelligence. <br>skills SQL and Python with libraries like-<br> Pandas, NumPy, Matplotlib, and Seaborn for data manipulation and analysis. <br> tools - Power BI, Tableau, Advanced Excel, and Power Query  . <br>
 
 
 ## 🌐 Socials:
